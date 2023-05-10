@@ -7,7 +7,7 @@ Post-process result from Triton inference request.
 
 Run the following command in your Node-RED user directory - typically `~/.node-red`
 
-        npm install tequ-node-red-triton-post-process
+        npm install Lapland-UAS-Tequ/tequ-node-red-triton-post-process
 
 ## Information
 
